@@ -1,0 +1,8 @@
+PyPDF2
+pandas
+huggingface_hub
+scikit-learn
+transformers
+nltk
+beautifulsoup4
+requests

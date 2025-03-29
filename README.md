@@ -1,0 +1,1 @@
+Este proyecto tiene como objetivo hacer una primera intervención con personas que padecen el síndrome del impostor. 

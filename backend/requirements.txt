@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+# Librerías comunes para RAG en Python:
+langchain
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
